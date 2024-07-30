@@ -1,4 +1,8 @@
 ## Hi there 👋
+Olá seja bem-vindo ao meu perfil
+Meu nome é Pedro
+Estou estudando no alura
+Estou me desenvovendo na ff
 
 <!--
 **phslimah/phslimah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
